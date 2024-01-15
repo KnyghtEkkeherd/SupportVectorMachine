@@ -1,5 +1,5 @@
 # Introduction
-Repo to hold all the projects done during courses in machine learning
+lorem ipsum
 # System Description
 # Results
 # Discussion
